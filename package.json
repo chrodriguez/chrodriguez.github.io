@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "resume": "resume",
     "start": "resume serve",
     "export": "resume export"
   },
