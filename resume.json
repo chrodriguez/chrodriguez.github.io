@@ -1,0 +1,636 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Christian Adrián Rodriguez",
+    "label": "DevOps / Software Engineer",
+    "image": "",
+    "email": "chrodriguez@gmail.com",
+    "phone": "(54) 9 221-454-9004",
+    "url": "https://chrodriguez.gitlab.com/",
+    "summary": "Christian es Argentino, nacido en la ciudad de La Plata, Buenos Aires. Ha obtenido los títulos de Analista de Computación y Licenciado en Informática en la Facultad de Informática perteneciente a la Universidad Navional de La Plata. Inició su carrera profesional como docente en la carrera de grado y postgrado. Trabajó en el Centro Superior del Procesamiento de la Información de la Universidad Nacional de La Plata, en sus comienzos como miembro del equipo de TI, y luego coordinando un equipo de desarrollo de software. En sus comienzos se perfeccionó en tareas de operaciones, relacionadas a las redes, sistemas operativos Unix, ruteo avanzado, servicios de mail, web y de directorios. A través de su rol como coordinador y desarrollador de un equipo grande de desarrollo de software, obtuvo una basta experiencia en este terreno. Como consecuencia de sus roles, comenzó a implementar la metodología DevOps tempranamente, siendo impulsor de este movimiento en su ámbito de trabajo en la Universidad. Paralelamente, Christian mantuvo diferentes contrataciones en el ámbito privado, todas relacionadas a su rol en infraestructura, configuración de servicios, contenedores y consultor en diversas temáticas.",
+    "location": {
+      "address": "Calle 23bis #1932",
+      "postalCode": "1900",
+      "city": "La Plata",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "car_unlp",
+        "url": "https://twitter.com/car_unlp"
+      },
+      {
+        "network": "Github",
+        "username": "chrodriguez",
+        "url": "https://github.com/chrodriguez/"
+      },
+      {
+        "network": "Gitlab",
+        "username": "chrodriguez",
+        "url": "https://gitlab.com/chrodriguez/"
+      },
+      {
+        "network": "Linkedin",
+        "username": "chrodriguez",
+        "url": "https://www.linkedin.com/in/christian-rodriguez-419b8234/"
+      },
+      {
+        "network": "Speaker Deck",
+        "username": "chrodriguez",
+        "url": "https://speakerdeck.com/chrodriguez"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ministerio de Hacienda de Nación",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Consultor de Data Center",
+      "url": "https://www.argentina.gob.ar/economia",
+      "startDate": "2019-10-01",
+      "summary": "Asistencia al Presidente de la Nación y al Jefe de Gabinete de Ministros en todo lo inherente a la política económica, presupuestaria e impositiva, a la administración de las finanzas públicas, a las relaciones económicas, financieras y fiscales con las Provincias y la Ciudad Autónoma de Buenos Aires.",
+      "highlights": [
+        "Relevamiento de las áreas correspondientes a la DGSIAF.",
+        "Concentración de logs y monitoreo en plataforma de contenedores.",
+        "Puesta en producción de los primeros aplicativos utiliando contenedores.",
+        "Implementación de procesos y automatización basada en IaC."
+      ]
+    },
+    {
+      "name": "Mikroways S.A.",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Director de Tecnología",
+      "url": "https://mikroways.net",
+      "startDate": "2015-01-01",
+      "summary": "Mikroways brinda servicios de TI, específicamente relacionados a la infraestructura tecnológica de sus clientes. Para ello diseña e implementa soluciones a medida según la necesidades de sus clientes. Además Mikroways realiza capacitaciones al personal de sistemas, adaptando los cursos a los requerimientos específicos.",
+      "highlights": [
+        "Creación de la empresa conjuntamente con Leandro Di Tommaso.",
+        "Impulsor de las decisiones tecnológicas, adopción de productos y estándares de la empresa.",
+        "Docente de varias de las capacitaciones dictadas.",
+        "Responsable de la creación de talentos en la empresa."
+      ]
+    },
+    {
+      "name": "CeSPI, UNLP",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Coordinador DevOps",
+      "url": "https://www.cespi.unlp.edu.ar",
+      "startDate": "2015-01-01",
+      "endDate": "2019-10-01",
+      "summary": "El CeSPI orienta sus actividades hacia valores de responsabilidad social, desarrollo sostenible, calidad, cuidado del medioambiente, la inclusión y la solidaridad.",
+      "highlights": [
+        "Mantenimiento de la infraestructura de los desarrollos internos de la UNLP.",
+        "Gestión de la infraestructura utilizando IaC basada en chef.",
+        "Conteneirización de la infraestructura utilizando rancher Cattle.",
+        "Implementación de monitoreo estadístico basado en stack de influxdb.",
+        "Implementación de flujos de CI/CD. Muchos aplicativos se despliegan con despliegue continuo.",
+        "Formación de talentos y divulgación de nuevas tecnologías."
+      ]
+    },
+    {
+      "name": "CeSPI, UNLP",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Coordinador equipo Desarrollos Internos",
+      "url": "https://www.cespi.unlp.edu.ar",
+      "startDate": "2006-01-01",
+      "endDate": "2017-01-01",
+      "summary": "El CeSPI orienta sus actividades hacia valores de responsabilidad social, desarrollo sostenible, calidad, cuidado del medioambiente, la inclusión y la solidaridad.",
+      "highlights": [
+        "Creación del equipo que nace con tres integrantes y llegó a conformarse por quince.",
+        "Adopción de estándares de desarrollo.",
+        "Desarrollo de importantes aplicaciones de uso interno en la UNLP: sistema de expedientes, licencias médicas, portal de contenidos, buscadores, gestión de proyectos de extensión, etc.",
+        "Implementación de API de servicios utilizando primero SOAP, y con el pasar de los años REST",
+        "Implementación de autenticación centralizada basada en SAML",
+        "Adopción de técnicas de despliegue e integración continua.",
+        "Coordinación del desarrollo e implementación del portal del Diario El Día de La Plata.",
+        "Coordinación del desarrollo e implementación de un crawler de sitios web relacionados al ámbito de bibliotecas, diálogo de OAH-PMH e indexación rápida empleando ElasticSearch.",
+        "Coordinación del desarrollo e implementación de un sistema de gestión de matriculas para el Colegio de Abogados de La Plata.",
+        "Coordinación del desarrollo e implementación de un sistema de acopiamiento y análisis de datos capturados por estaciones meteorológicas",
+        "Migración del liquidador de sueldos desarrollado en Mainframe a un desarrollo moderno desarrollado en ruby on rails, desplegado en cluster de contenedores docker.",
+        "Coordinación del desarrollo e implementación de varios sistemas en la Secretaría Legal y Técnica de la Provincia de Buenos Aires: Sistema de gestión de expedientes, Sistema de manejo de documentos y gestión de Mensajes y Leyes.",
+        "Análisis de factibilidad de extensión del sistema Aguapey, propiedad de la Biblioteca Nacional de Maestros, a partir del desensamblado de los binarios actuales y su correspondencia con los fuentes disponibles.",
+        "Análisis de situación en la Mesa de Ayuda del Banco Central de la República Argentina (BCRA) con el propósito de determinar los aspectos a cubrir para lograr una eficaz gestión a través de procedimientos adecuados al framework ITIL."
+      ]
+    },
+    {
+      "name": "CeSPI, UNLP",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Soporte técnico",
+      "url": "https://www.cespi.unlp.edu.ar",
+      "startDate": "2002-06-01",
+      "endDate": "2006-01-01",
+      "summary": "El CeSPI orienta sus actividades hacia valores de responsabilidad social, desarrollo sostenible, calidad, cuidado del medioambiente, la inclusión y la solidaridad.",
+      "highlights": [
+        "Mantenimiento de Servidores UNIX, Linux y BSD, seguridad, administración de la red de la Universidad Nacional de La Plata.",
+        "Migración de un servidor basado en tecnologías licenciadas a una alternativa open source según convenio entre UNLP y Secretaría de Derechos Humanos.",
+        "Soporte técnico y tecnológico en convenio UNLP – IPLYC (Instituto Provincial de Lotería y Casinos)."
+      ]
+    },
+    {
+      "name": "SENASA",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Consultor externo",
+      "url": "https://www.argentina.gob.ar/senasa",
+      "startDate": "2007-09-01",
+      "endDate": "2019-10-01",
+      "summary": "Ejecuta las políticas nacionales de sanidad animal, vegetal e inocuidad de los alimentos.",
+      "highlights": [
+        "Arquitectura y migración de la infraestructura de correo electrónico de la organización basada en un cluster IMAP basado en dovecot. Utilización de IaC basada en chef.",
+        "Definición, diseño e implementación de un Servicio de Directorio e integración de servicios.",
+        "Desarrollos a medida solicitados por diversas áreas de la organización.",
+        "Configuración de load balancers, instalación de productos de gestión para los equipos internos de la organización."
+      ]
+    },
+    {
+      "name": "Jefatura de Gabinete de la Nación Argentina",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Asesor tecnológico ad honorem",
+      "url": "https://www.telam.com.ar/notas/201305/16921-software-publico-para-el-desarrollo.html",
+      "startDate": "2013-05-01",
+      "endDate": "2014-09-01",
+      "summary": "Asesoramiento acerca de la definición de la infraestructura del proyecto de Software Público para el Desarrollo, correspondiente a la Jefatura de Gabinete de la Nación Argentina.",
+      "highlights": [
+        "Participación de las reuniones de definición del proyecto.",
+        "Instalación de herramientas de colaboración en infraestructura provista: redmine, gitlab, SSO"
+      ]
+    },   
+    {
+      "name": "Ministerio de Industria de la Nación",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Asesor tecnológico ad honorem",
+      "url": "https://www.argentina.gob.ar/produccion",
+      "startDate": "2012-08-01",
+      "endDate": "2013-11-01",
+      "summary": "Consultor profesional externo de infraestructura informática para este ministerio",
+      "highlights": [
+        "Tuning de servicios web y bases de datos"
+      ]
+    },   
+    {
+      "name": "Ministerio de Defensa de la Nación",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Prestación de servicio profesional",
+      "url": "https://www.argentina.gob.ar/defensa",
+      "startDate": "2012-02-01",
+      "endDate": "2012-03-01",
+      "summary": "Mejorar la conectividad de una dependencia del ministerio",
+      "highlights": [
+        "Analisis de la problemática de conectividad de una depencia del ministerio.",
+        "Instalación de un firewall con balanceo de carga entre dos proveedores de intenet, proxy HTTP, DNS, DHCP."
+      ]
+    },
+    {
+      "name": "CoreSystems SRL",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Lider de Proyecto y Analista funcional",
+      "startDate": "2004-12-01",
+      "endDate": "2012-01-01",
+      "summary": "Desarrollo de aplicaciones",
+      "highlights": [
+        "Análisis, arquitectura y coordinación técnica del desarrollo de un sistema de gestión integral para Mesa de Entardas, Contratos, Convenios, Tesorería y Reportes para Fundación Argeninta.",
+        "Analisis, arquitectura y coordinación técnica de la infraestructura de SSO, WEB Services de integración y desarrollo de aplicaciones de Sumarios, Patrimonio, Gestión de Proyectos, Gestión de Proyectos de Extensión y gestión de usuarios en Active Directory basado en WEB, para INTA.",
+        "Análisis de requerimientos, desarrollo e implementación de aplicación de gestión de Convenios en INTA.",
+        "Desarrollo de un sistema de gestión de Visados y documentos varios para el Colegio de Ingenieros de la Provincia de Buenos Aires."
+      ]
+    },
+    {
+      "name": "Gaming Laboratories International Sudamérica - LINTI - UNLP",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Lider de Proyecto y Analista funcional",
+      "startDate": "2007-04-01",
+      "endDate": "2012-01-01",
+      "summary": "Test de máquinas de juego siguiendo el estándar GLI",
+      "highlights": [
+        "Coordinación del equipo de software correspondiente a las Certificaciones.",
+        "Adopción de las metodologías propias de los estándares definidos pr GLI.",
+        "Homologación de Ruleta electrónica modelo Rolling Money Plus 7500 de Electrochance, según Reglamentación 97 LNSE."
+      ]
+    },
+    {
+      "name": "Femape",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Consultor externo",
+      "url": "http://www.femape.org.ar/",
+      "startDate": "2005-11-01",
+      "endDate": "2013-01-01",
+      "summary": "Desarrollo de aplicaciones de uso interno por la organización y mantenimiento de la infraestructura.",
+      "highlights": [
+        "Desarrollo de sistema de seguimiento de Expedientes y Facturacións convenio ASSII La Red.",
+        "Desarrollo de sistema de seguimiento de Expedientes y Facturación convenio OXIGENO.",
+        "Desarrollo de sistema de seguimiento de Expedientes y Facturación convenio PROFE.",
+        "Desarrollo de sistema de administración de Licitaciones",
+        "Mantenimiento de los servicios basados en Linux y consultoría."
+      ]
+    },
+    {
+      "name": "ONCCA: Oficina Nacional de Control Comercial Agropecuario",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "position": "Desarrollador",
+      "startDate": "2006-04-01",
+      "endDate": "2006-05-01",
+      "summary": "Desarrollo de un aplicativo de uso interno por la organización",
+      "highlights": [
+        "Desarrollo de sistema de seguimiento ganado."
+      ]
+    },
+    {
+      "name": "Universidad de General Sarmiento",
+      "location": "Los Polvorines, Buenos Aires, Argentina",
+      "position": "Consultor externo",
+      "url": "https://www.ungs.edu.ar/",
+      "startDate": "2005-12-01",
+      "endDate": "2006-01-01",
+      "summary": "Rediseño de la red",
+      "highlights": [
+        "Planificación, instalación y puesta a punto del rediseño de la red, actualización de servicios de mail y archivos, monitoreo y control de tráfico."
+      ]
+    },
+    {
+      "name": "Municipio de La Costa",
+      "location": "Mar del Tuyú, Buenos Aires, Argentina",
+      "url": "https://lacosta.gob.ar",
+      "position": "Consultor externo",
+      "startDate": "2005-07-01",
+      "endDate": "2006-06-01",
+      "summary": "Capacitaciones, gestiónm de infraestructura",
+      "highlights": [
+        "Dictado de capacitación de Linux",
+        "Mantenimiento de Servidores Linux y BSD"
+      ]
+    },
+    {
+      "name": "Instituto de Medicina Nuclear de la Plata",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Consultor externo",
+      "startDate": "2005-04-01",
+      "endDate": "2005-05-01",
+      "summary": "Configuración de servicio de impresión en dispotivo privado",
+      "highlights": [
+        "Integración del Sistema ADAC Pegasys, provisto con una cámara gama utilizada en medicina nuclear, basado en Solaris 2.5.1, con un sistema de impresión alternativo donde se extendieron los modelos de impresoras que ADAC ofrece, al rango de impresoras disponibles a bajo costo en nuestro país."
+      ]
+    },
+    {
+      "name": "Servicio Meteorológico Nacional",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina",
+      "url": "https://www.smn.gob.ar",
+      "position": "Consultor externo",
+      "startDate": "2003-02-01",
+      "endDate": "2008-04-01",
+      "summary": "Brinda información y pronósticos meteorológico",
+      "highlights": [
+        "Desarrollo de una aplicación de generación de videos automatizada para el Servicio Meteorológico Nacional.",
+        "Soporte Técnico, mantenimiento y seguridad de los serviores.",
+        "Desarrollo de un sistema de parsing de mensajes meteorológicos."
+      ]
+    },
+    {
+      "name": "DIGO S.A.",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Desarrollador",
+      "startDate": "2004-10-01",
+      "endDate": "2004-12-01",
+      "summary": "Desarrollo de un aplicativo a medida",
+      "highlights": [
+        "Desarrollo de un sistema de gestión de pedidos y cobranzas utilizando tecnología WAP con infraestructura JSP y Postgres."
+      ]
+    },
+    {
+      "name": "Snoopconsulting S.A.",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Pasante",
+      "url": "https://www.snoopconsulting.com/",
+      "startDate": "2003-03-01",
+      "endDate": "2004-01-01",
+      "summary": "Experiencia de trabajo",
+      "highlights": [
+        "Dicatado de curso de Oracle Internet Directory en Fundación Proydesa.",
+        "Análisis de producto Oracle Collaboration Suite.",
+        "Adaptación de software de gestión Ferozzo para nueva versión de Fedora."
+      ]
+    },
+    {
+      "name": "Comisión Provincial por la Memoria",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Desarrollador",
+      "url": "https://www.comisionporlamemoria.org/",
+      "startDate": "2002-05-01",
+      "endDate": "2003-01-01",
+      "summary": "Proyecto de digitalización de material a utilizarse por los peritos",
+      "highlights": [
+        "Desarrollo de DICUM, buscador utilizado por los peritos. Versión Delphi.",
+        "Rediseño e implementación de DICUM utilizando Java. versión WEB."
+      ]
+    },
+    {
+      "name": "Federación Patronal Seguros",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Asesor tecnológico",
+      "url": "https://www.fedpat.com.ar/",
+      "startDate": "2001-06-01",
+      "endDate": "2001-09-01",
+      "summary": "Portal web de la aseguradora",
+      "highlights": [
+        "Asesoramiento e implementación del portal web de la aseguradora."
+      ]
+    },
+    {
+      "name": "Facultad de Ciencias Exáctas, UNLP",
+      "location": "La Plata, Buenos Aires, Argentina",
+      "position": "Administrador de servidores y red",
+      "url": "https://www.exactas.unlp.edu.ar/",
+      "startDate": "2000-04-01",
+      "endDate": "2001-04-01",
+      "summary": "Dependencia de la UNLP",
+      "highlights": [
+        "Administración de los servicios correspondiente a los departamentos de Química, Biológicas y Decanato"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de la Plata",
+      "url": "https://www.info.unlp.edu.ar/",
+      "area": "Desarrollo",
+      "studyType": "Analista de Computación",
+      "startDate": "1996-01-01",
+      "endDate": "2000-03-09",
+      "gpa": "99,15"
+    },
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de la Plata",
+      "url": "https://www.info.unlp.edu.ar/",
+      "area": "Desarrollo",
+      "studyType": "Licenciado en informática",
+      "startDate": "1996-01-01",
+      "endDate": "2004-06-01",
+      "gpa": "99,21"
+    },
+    {
+      "institution": "Facultad de Informática, Universidad Nacional de la Plata",
+      "url": "https://www.info.unlp.edu.ar/",
+      "area": "Desarrollo",
+      "studyType": "Especialista en Redes de Datos",
+      "startDate": "2007-01-01",
+      "endDate": "2018-10-01",
+      "gpa": "A"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Distinción Dr. Joaquín V. Gonzalez",
+      "date": "2004-12-15",
+      "awarder": "Municipalidad de La Plata",
+      "summary": "Otorgado a los mejores promedios egresados de las Facultades dependientes de la Universidad Nacional de La Plata."
+    },
+    {
+      "title": "Distinción Dr. Joaquín V. Gonzalez",
+      "date": "2000-12-12",
+      "awarder": "Municipalidad de La Plata",
+      "summary": "Otorgado a los mejores promedios egresados de las Facultades dependientes de la Universidad Nacional de La Plata."
+    },
+    {
+      "title": "Alumno destacado de la Facultad",
+      "date": "2004-09-24",
+      "awarder": "Facultad de Informática, UNLP",
+      "summary": "Reconocimiento a los mejores promedios en el período 1996-2001."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Evaluating Performance of Web Applications in (Cloud) Virtualized Environments",
+      "publisher": "JCC&BD 2019. Comminications in Computer and Information Science vol 1050.  Springer, Naiuf M., Chichizola F, Rucci E. (eds), Print ISBN 978-3-030-27712-3, Online ISBN 978-3-030-27713-0",
+      "releaseDate": "2019-07-27",
+      "url": "https://doi.org/10.1007/978-3-030-27713-0_4",
+      "summary": "Web applications usually involve a number of different software libraries and tools (usually referred to as frameworks) each carrying out specific task/s and generating the corresponding overhead. In this paper, we show how to evaluate and even find out several configuration performance characteristics by using virtualized environments which are now used in data centers and cloud environments. We use specific and simple web software architectures as proof of concept, and explain several experiments that show performance issues not always expected from a conceptual point of view. We also explain that adding software libraries and tools also generate performance analysis complexities. We also shown that as an application is shown to scale, the problems to identify performance details and bottlenecks also scale, and the performance analysis also requires deeper levels of details."
+    },
+    {
+      "name": "Evolution of Handling Web Applications Up to the Current DevOps Tools",
+      "publisher": "IEEE Computer Society. ISBN-13: 978-1-5386-2652-8; BMS Part # CFP1771X-USB. Proceedings of the 2017 International Conference on Computational Science and Computational Intelligence (CSCI'17: 14-16 December 2017, Las Vegas, Nevada, USA)",
+      "releaseDate": "2017-12-16",
+      "url": "https://ieeexplore.ieee.org/document/8560930",
+      "summary": "In this paper, we show the way in which many standard web applications have evolved. Most of them started with a complete independence among software development and its architecture, deployment and infrastructure design. Now, the current usage of DevOps (for Development and Operations) emerging tools are used in the context of new methodologies. We use a specific application and its own evolution as an example. Most of the development cycle, application architecture, and environments for development, testing, and QA (Quality Assurance) has changed in the last years. From 2006 to date, we have taken advantage of many new technologies as soon as they were available, each one providing some aid to (some) web development task. We also define a preliminary characterization for web applications evolution in order to analyze pros and cons of the current DevOps methodologies."
+    },
+    {
+      "name": "Driving Schools to Automation through Kimkëlen Software",
+      "publisher": "SSN: 1877-0428. The 4th World Congress on Technical Vocational Education and Training (4thWoCTVET), 5-6 December 2014, Universiti Tun Hussein Onn Malaysia, MALAYSIA",
+      "releaseDate": "2015-05-13",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877042815022636",
+      "summary": "The aim of this paper is to introduce Kimkëlen, a student information system -SIS- that allows educational institutions to automate its managements processes in a simple, practical and audited way. This software has been developed to meet the needs of pre-university level schools of Universidad Nacional de La Plata and Universidad de Buenos Aires, Argentina. Released to open source community in 2013 under GNU GPL v2.0, Kimkëlen was built on the premise that each school usually has its own teaching scheme following different rules, therefore the level of adaptation and customization had to be high. After deployment of Kimkëlen it was demonstrated that the best way to create, improve, expand and integrate spaces related to school administration is through their computerization. Management of the schools where it was implemented were potentially improved in several ways and after surveying users the results were encouragingly positive. Kimkëlen helps educational institutions to evolve into a new model that goes after bases adopted by modern organizations."
+    },
+    {
+      "name": "The hard way to virtual machine administration: towards DevOps. A Bridge between Developers and IT Operators",
+      "publisher": "ISSN: 1666-6038. Revista: Journal of Computer Science & Technology; vol. 13, no. 3",
+      "releaseDate": "2013-02-13",
+      "url": "https://journal.info.unlp.edu.ar/JCST/article/view/592",
+      "summary": "The coexistence of multiple platforms and the implementation of different virtualization models makes server administration more complex every day. The undeniable benefits both methodologies offer in terms of performance optimization and energy saving can be overshadowed if clear guidelines are not established for configuration and maintenance in accordance with the needs of increasingly agile development models that demand quick responses. DevOps is a possible solution to this situation. However, it demands a new perspective in traditional roles within technology areas."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desarrollador",
+      "level": "Senior",
+      "keywords": [
+        "C",
+        "PHP",
+        "Ruby",
+        "Java",
+        "Javascript",
+        "Shell script",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Operations",
+      "level": "Senior",
+      "keywords": [
+        "Chef",
+        "Docker",
+        "Ansible",
+        "Terraform",
+        "Kubernetes",
+        "helm",
+        "argo"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "avanzado"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+    {
+      "name": "Yavu CMS",
+      "description": "Un CMS desarrollado a medida para el diario El Día de La Plata.",
+      "highlights": [
+        "CMS desarrollado con el desacoplamiento de roles en mente. Los desarrolladores no deben intervenir con los diseñadores ni con los editores.",
+        "CMS utilizado por varios portales de la UNLP",
+        "Múltitenant",
+        "RBAC"
+      ],
+      "keywords": [
+        "CMS",
+        "SEO"
+      ],
+      "startDate": "2015-01-01",
+      "endDate": "2017-03-01",
+      "url": "https://gitlab.com/yavu-cms",
+      "roles": [
+        "Lider de proyecto",
+        "Arquitecto",
+        "Desarrollador",
+        "Analista funcional"
+      ],
+      "entity": "UNLP",
+      "type": "application"
+    },
+    {
+      "name": "ldap2rest",
+      "description": "Convierte un directorio LDAP a servicio de list y get REST",
+      "highlights": [
+        "Desarrollado y utilizado por SENASA."
+      ],
+      "keywords": [
+        "ldap",
+        "REST",
+        "ruby",
+        "java"
+      ],
+      "startDate": "2012-07-01",
+      "endDate": "2012-09-01",
+      "url": "https://github.com/chrodriguez/ldap2rest",
+      "roles": [
+        "Desarrollador"
+      ],
+      "entity": "SENASA",
+      "type": "application"
+    },
+    {
+      "name": "tv_grab_ar",
+      "description": "Armado de grilla de canales para argentina",
+      "highlights": [
+        "Parte del proyecto XMLTV"
+      ],
+      "keywords": [
+        "perl",
+        "xmltv",
+        "tv",
+        "epg"
+      ],
+      "startDate": "2007-05-01",
+      "endDate": "2007-06-01",
+      "url": "https://github.com/mattiash/xmltv/blob/master/grab/ar/tv_grab_ar",
+      "roles": [
+        "Desarrollador"
+      ],
+      "entity": "XMLTV",
+      "type": "application"
+    },
+    {
+      "name": "tv_grab_dtv_la",
+      "description": "Armado de grilla de canales para argentina",
+      "highlights": [
+        "Parte del proyecto XMLTV"
+      ],
+      "keywords": [
+        "perl",
+        "xmltv",
+        "tv",
+        "epg"
+      ],
+      "startDate": "2007-05-01",
+      "endDate": "2007-06-01",
+      "url": "https://github.com/mattiash/xmltv/blob/master/grab/dtv_la/tv_grab_dtv_la",
+      "roles": [
+        "Desarrollador"
+      ],
+      "entity": "XMLTV",
+      "type": "application"
+    },
+    {
+      "name": "kimkelen",
+      "description": "Sistema de gestión de colegios primarios, secundarios y terciarios",
+      "highlights": [
+        "Sistema de gestión de escuelas"
+      ],
+      "keywords": [
+        "php",
+        "symfony",
+        "escuela",
+        "colegio"
+      ],
+      "startDate": "2013-05-01",
+      "endDate": "2019-10-01",
+      "url": "https://github.com/Desarrollo-CeSPI/kimkelen",
+      "roles": [
+        "Lider de proyecto",
+        "Arquitecto",
+        "Desarrollador",
+        "Analista funcional"
+      ],
+      "entity": "UNLP",
+      "type": "application"
+    },
+    {
+      "name": "Choique CMS",
+      "description": "Un CMS desarrollado a medida para el portal de la UNLP.",
+      "highlights": [
+        "CMS desarrollado con el desacoplamiento de roles en mente. Los desarrolladores no deben intervenir con los diseñadores ni con los editores.",
+        "CMS utilizado por varios portales de la UNLP"
+      ],
+      "keywords": [
+        "CMS",
+        "SEO"
+      ],
+      "startDate": "2007-01-01",
+      "endDate": "2013-03-01",
+      "url": "https://github.com/Desarrollo-CeSPI/choique",
+      "roles": [
+        "Lider de proyecto",
+        "Arquitecto",
+        "Desarrollador",
+        "Analista funcional"
+      ],
+      "entity": "UNLP",
+      "type": "application"
+    },
+    {
+      "name": "Redmine SAML plugin",
+      "description": "Un plugin para redmine que implementa el estandar SAML",
+      "highlights": [
+        "Desarrolladom para ser utilizado por la UNLP."
+      ],
+      "keywords": [
+        "redmine",
+        "SAML",
+        "plugin",
+        "ruby"
+      ],
+      "startDate": "2013-09-01",
+      "endDate": "2019-01-01",
+      "url": "https://github.com/chrodriguez/redmine_omniauth_saml",
+      "roles": [
+        "Desarrollador"
+      ],
+      "entity": "UNLP",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

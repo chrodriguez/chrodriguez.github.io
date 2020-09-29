@@ -1,0 +1,17 @@
+{
+  "name": "resume-car",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume serve",
+    "export": "resume export"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.0",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "^2.0.0"
+  }
+}
