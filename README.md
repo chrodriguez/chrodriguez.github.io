@@ -32,3 +32,5 @@ Para exportar el PDF usando un tema:
 npm run-script export -- --theme kendall cv.pdf
 ```
 
+> El ejemplo exporta con el tema kendall
+
