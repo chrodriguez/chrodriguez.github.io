@@ -7,7 +7,7 @@
     "email": "chrodriguez@gmail.com",
     "phone": "(54) 9 221-454-9004",
     "url": "https://chrodriguez.gitlab.com/",
-    "summary": "Christian es Argentino, nacido en la ciudad de La Plata, Buenos Aires. Ha obtenido los títulos de Analista de Computación y Licenciado en Informática en la Facultad de Informática perteneciente a la Universidad Navional de La Plata. Inició su carrera profesional como docente en la carrera de grado y postgrado. Trabajó en el Centro Superior del Procesamiento de la Información de la Universidad Nacional de La Plata, en sus comienzos como miembro del equipo de TI, y luego coordinando un equipo de desarrollo de software. En sus comienzos se perfeccionó en tareas de operaciones, relacionadas a las redes, sistemas operativos Unix, ruteo avanzado, servicios de mail, web y de directorios. A través de su rol como coordinador y desarrollador de un equipo grande de desarrollo de software, obtuvo una basta experiencia en este terreno. Como consecuencia de sus roles, comenzó a implementar la metodología DevOps tempranamente, siendo impulsor de este movimiento en su ámbito de trabajo en la Universidad. Paralelamente, Christian mantuvo diferentes contrataciones en el ámbito privado, todas relacionadas a su rol en infraestructura, configuración de servicios, contenedores y consultor en diversas temáticas.",
+    "summary": "Christian es Argentino, nacido en la ciudad de La Plata, Buenos Aires. Ha obtenido los títulos de Analista de Computación y Licenciado en Informática en la Facultad de Informática perteneciente a la Universidad Navional de La Plata. Inició su carrera profesional como docente en la carrera de grado y posteriormente postgrado. Trabajó en el Centro Superior del Procesamiento de la Información de la Universidad Nacional de La Plata, en sus comienzos como miembro del equipo de TI, y luego coordinando un equipo de desarrollo de software. En sus comienzos se perfeccionó en tareas de operaciones, relacionadas a las redes de datos, sistemas operativos Unix, servicios de correo, web y de directorios. A través de su rol como coordinador de un equipo de desarrollo de software, obtuvo una basta experiencia en el área. Como consecuencia de sus roles, comenzó a implementar la metodología DevOps tempranamente, siendo impulsor de este movimiento en su ámbito de trabajo de la Universidad. Paralelamente, Christian mantuvo diferentes contrataciones en el ámbito privado, todas relacionadas a su rol en infraestructura, configuración de servicios, contenedores y consultor en diversas temáticas.",
     "location": {
       "address": "Calle 23bis #1932",
       "postalCode": "1900",
@@ -45,7 +45,7 @@
   },
   "work": [
     {
-      "name": "Ministerio de Hacienda de Nación",
+      "company": "Ministerio de Hacienda de Nación",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "position": "Consultor de Data Center",
       "url": "https://www.argentina.gob.ar/economia",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Mikroways S.A.",
+      "company": "Mikroways S.A.",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Director de Tecnología",
       "url": "https://mikroways.net",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "CeSPI, UNLP",
+      "company": "CeSPI, UNLP",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Coordinador DevOps",
       "url": "https://www.cespi.unlp.edu.ar",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "name": "CeSPI, UNLP",
+      "company": "CeSPI, UNLP",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Coordinador equipo Desarrollos Internos",
       "url": "https://www.cespi.unlp.edu.ar",
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "CeSPI, UNLP",
+      "company": "CeSPI, UNLP",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Soporte técnico",
       "url": "https://www.cespi.unlp.edu.ar",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "SENASA",
+      "company": "SENASA",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "position": "Consultor externo",
       "url": "https://www.argentina.gob.ar/senasa",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "name": "Jefatura de Gabinete de la Nación Argentina",
+      "company": "Jefatura de Gabinete de la Nación Argentina",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "position": "Asesor tecnológico ad honorem",
       "url": "https://www.telam.com.ar/notas/201305/16921-software-publico-para-el-desarrollo.html",
@@ -157,7 +157,7 @@
       ]
     },   
     {
-      "name": "Ministerio de Industria de la Nación",
+      "company": "Ministerio de Industria de la Nación",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "position": "Asesor tecnológico ad honorem",
       "url": "https://www.argentina.gob.ar/produccion",
@@ -169,7 +169,7 @@
       ]
     },   
     {
-      "name": "Ministerio de Defensa de la Nación",
+      "company": "Ministerio de Defensa de la Nación",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "position": "Prestación de servicio profesional",
       "url": "https://www.argentina.gob.ar/defensa",
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "CoreSystems SRL",
+      "company": "CoreSystems SRL",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Lider de Proyecto y Analista funcional",
       "startDate": "2004-12-01",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "Gaming Laboratories International Sudamérica - LINTI - UNLP",
+      "company": "Gaming Laboratories International Sudamérica - LINTI - UNLP",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Lider de Proyecto y Analista funcional",
       "startDate": "2007-04-01",
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "name": "Femape",
+      "company": "Femape",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Consultor externo",
       "url": "http://www.femape.org.ar/",
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "name": "ONCCA: Oficina Nacional de Control Comercial Agropecuario",
+      "company": "ONCCA: Oficina Nacional de Control Comercial Agropecuario",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "position": "Desarrollador",
       "startDate": "2006-04-01",
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "name": "Universidad de General Sarmiento",
+      "company": "Universidad de General Sarmiento",
       "location": "Los Polvorines, Buenos Aires, Argentina",
       "position": "Consultor externo",
       "url": "https://www.ungs.edu.ar/",
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "name": "Municipio de La Costa",
+      "company": "Municipio de La Costa",
       "location": "Mar del Tuyú, Buenos Aires, Argentina",
       "url": "https://lacosta.gob.ar",
       "position": "Consultor externo",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "Instituto de Medicina Nuclear de la Plata",
+      "company": "Instituto de Medicina Nuclear de la Plata",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Consultor externo",
       "startDate": "2005-04-01",
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "name": "Servicio Meteorológico Nacional",
+      "company": "Servicio Meteorológico Nacional",
       "location": "Ciudad Autónoma de Buenos Aires, Argentina",
       "url": "https://www.smn.gob.ar",
       "position": "Consultor externo",
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "name": "DIGO S.A.",
+      "company": "DIGO S.A.",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Desarrollador",
       "startDate": "2004-10-01",
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "name": "Snoopconsulting S.A.",
+      "company": "Snoopconsulting S.A.",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Pasante",
       "url": "https://www.snoopconsulting.com/",
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "name": "Comisión Provincial por la Memoria",
+      "company": "Comisión Provincial por la Memoria",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Desarrollador",
       "url": "https://www.comisionporlamemoria.org/",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "name": "Federación Patronal Seguros",
+      "company": "Federación Patronal Seguros",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Asesor tecnológico",
       "url": "https://www.fedpat.com.ar/",
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "name": "Facultad de Ciencias Exáctas, UNLP",
+      "company": "Facultad de Ciencias Exáctas, UNLP",
       "location": "La Plata, Buenos Aires, Argentina",
       "position": "Administrador de servidores y red",
       "url": "https://www.exactas.unlp.edu.ar/",
@@ -402,28 +402,28 @@
       "name": "Evaluating Performance of Web Applications in (Cloud) Virtualized Environments",
       "publisher": "JCC&BD 2019. Comminications in Computer and Information Science vol 1050.  Springer, Naiuf M., Chichizola F, Rucci E. (eds), Print ISBN 978-3-030-27712-3, Online ISBN 978-3-030-27713-0",
       "releaseDate": "2019-07-27",
-      "url": "https://doi.org/10.1007/978-3-030-27713-0_4",
+      "website": "https://doi.org/10.1007/978-3-030-27713-0_4",
       "summary": "Web applications usually involve a number of different software libraries and tools (usually referred to as frameworks) each carrying out specific task/s and generating the corresponding overhead. In this paper, we show how to evaluate and even find out several configuration performance characteristics by using virtualized environments which are now used in data centers and cloud environments. We use specific and simple web software architectures as proof of concept, and explain several experiments that show performance issues not always expected from a conceptual point of view. We also explain that adding software libraries and tools also generate performance analysis complexities. We also shown that as an application is shown to scale, the problems to identify performance details and bottlenecks also scale, and the performance analysis also requires deeper levels of details."
     },
     {
       "name": "Evolution of Handling Web Applications Up to the Current DevOps Tools",
       "publisher": "IEEE Computer Society. ISBN-13: 978-1-5386-2652-8; BMS Part # CFP1771X-USB. Proceedings of the 2017 International Conference on Computational Science and Computational Intelligence (CSCI'17: 14-16 December 2017, Las Vegas, Nevada, USA)",
       "releaseDate": "2017-12-16",
-      "url": "https://ieeexplore.ieee.org/document/8560930",
+      "website": "https://ieeexplore.ieee.org/document/8560930",
       "summary": "In this paper, we show the way in which many standard web applications have evolved. Most of them started with a complete independence among software development and its architecture, deployment and infrastructure design. Now, the current usage of DevOps (for Development and Operations) emerging tools are used in the context of new methodologies. We use a specific application and its own evolution as an example. Most of the development cycle, application architecture, and environments for development, testing, and QA (Quality Assurance) has changed in the last years. From 2006 to date, we have taken advantage of many new technologies as soon as they were available, each one providing some aid to (some) web development task. We also define a preliminary characterization for web applications evolution in order to analyze pros and cons of the current DevOps methodologies."
     },
     {
       "name": "Driving Schools to Automation through Kimkëlen Software",
       "publisher": "SSN: 1877-0428. The 4th World Congress on Technical Vocational Education and Training (4thWoCTVET), 5-6 December 2014, Universiti Tun Hussein Onn Malaysia, MALAYSIA",
       "releaseDate": "2015-05-13",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1877042815022636",
+      "website": "https://www.sciencedirect.com/science/article/pii/S1877042815022636",
       "summary": "The aim of this paper is to introduce Kimkëlen, a student information system -SIS- that allows educational institutions to automate its managements processes in a simple, practical and audited way. This software has been developed to meet the needs of pre-university level schools of Universidad Nacional de La Plata and Universidad de Buenos Aires, Argentina. Released to open source community in 2013 under GNU GPL v2.0, Kimkëlen was built on the premise that each school usually has its own teaching scheme following different rules, therefore the level of adaptation and customization had to be high. After deployment of Kimkëlen it was demonstrated that the best way to create, improve, expand and integrate spaces related to school administration is through their computerization. Management of the schools where it was implemented were potentially improved in several ways and after surveying users the results were encouragingly positive. Kimkëlen helps educational institutions to evolve into a new model that goes after bases adopted by modern organizations."
     },
     {
       "name": "The hard way to virtual machine administration: towards DevOps. A Bridge between Developers and IT Operators",
       "publisher": "ISSN: 1666-6038. Revista: Journal of Computer Science & Technology; vol. 13, no. 3",
       "releaseDate": "2013-02-13",
-      "url": "https://journal.info.unlp.edu.ar/JCST/article/view/592",
+      "website": "https://journal.info.unlp.edu.ar/JCST/article/view/592",
       "summary": "The coexistence of multiple platforms and the implementation of different virtualization models makes server administration more complex every day. The undeniable benefits both methodologies offer in terms of performance optimization and energy saving can be overshadowed if clear guidelines are not established for configuration and maintenance in accordance with the needs of increasingly agile development models that demand quick responses. DevOps is a possible solution to this situation. However, it demands a new perspective in traditional roles within technology areas."
     }
   ],
